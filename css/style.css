@@ -1,4 +1,4 @@
-﻿body {
+body {
     background: #000000;
     color: #FFFFFF;
     font-family: "Times New Roman", Sans-Serif;
@@ -66,8 +66,5 @@ div{
 
 footer p{
     text-align: center;
-    padding-bottom: 10px;
-    padding-right: 10px;
-    padding-top: 0px;
-    padding-left: 0px;
+    padding: 0px 10px 10px 0px;
 }
